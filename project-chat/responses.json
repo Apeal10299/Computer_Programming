@@ -1,0 +1,111 @@
+{
+    "hello": [
+        "Hi there, {name}! How can I assist you today?",
+        "Hello, {name}! How's it going?",
+        "Greetings, {name}! What can I do for you today?"
+    ],
+    "course": [
+        "We offer many courses, {name}. Can you specify your area of interest?",
+        "{name}, are you looking for undergraduate or postgraduate courses?",
+        "Our university has courses ranging from arts to sciences, {name}. Need help deciding?"
+    ],
+    "undergraduate": [
+      "Poppleton University offers a variety of undergraduate programs, including BSc Computing, Business Management, and Engineering.",
+      "Explore all undergraduate courses at Poppleton University on our official website."
+    ],
+    "postgraduate": [
+      "At Poppleton University, we offer postgraduate programs like MSc Computing, MBA, and Data Science.",
+      "Looking to advance your career, {name}? Our postgraduate programs are designed for future leaders.",
+      "Visit Poppleton University's website to explore all our postgraduate courses."
+    ],
+    "admissions": [
+        "Admissions office hours are 10 AM to 4 PM.",
+        "You can contact admissions at admissions@poppleton.ac.uk, {name}.",
+        "Admissions are located in the main administration building."
+    ],
+    "fees": [
+        "The tuition fee details are available on the university website.",
+        "Fee payments can be made online or at the finance office, {name}.",
+        "Late fee submissions will incur a penalty of 5%."
+    ],
+    "fee structure": [
+        "For graduate courses, the fee is around 1 lakh 70 thousands per semester, {name}.",
+        "You can find a detailed breakdown of the fee structure on the university website, {name}."
+    ],
+    "scholarships": [
+        "Scholarship applications are open from January to March.",
+        "You can apply for need-based and merit-based scholarships, {name}.",
+        "Visit the scholarships office for assistance in applying."
+    ],
+    "library": [
+        "The library opens at 9 AM every day.",
+        "Feel free to visit the library for quiet study spaces, {name}.",
+        "You can borrow books from the library."
+    ],
+    "sports": [
+        "The sports complex is open from 6 AM to 10 PM.",
+        "You can join the football team by registering at the ECA, {name}.",
+        "Basketball courts are available."
+    ],
+    "events": [
+        "Check the university website for upcoming events.",
+        "There's a music concert this Friday at the auditorium, {name}.",
+        "The science fair is happening next month."
+    ],
+    "housing": [
+        "On-campus housing applications open in March.",
+        "Visit the housing office for more details, {name}.",
+        "Housing queries can be emailed to  poppleton2025.ac.uk."
+    ],
+    "exams": [
+        "Exam schedules are posted on the student portal.",
+        "Contact your department for exam-related queries, {name}.",
+        "Make sure to bring your student ID to exams."
+    ],
+    "transport": [
+        "The campus shuttle runs every 20 minutes.",
+        "You can find the bus schedule on the university website, {name}.",
+        "Parking permits are available from the transport office."
+    ],
+    "clubs": [
+        "The debate club meets every Wednesday at 5 PM.",
+        "You can join the chess club by signing up online, {name}.",
+        "The photography club is hosting a workshop this weekend."
+    ],
+    "financial_aid": [
+        "Financial aid applications can be submitted online.",
+        "Visit the financial aid office for consultation, {name}.",
+        "Financial aid decisions are communicated within 4 weeks."
+    ],
+    "campus": [
+        "The campus map is available on the university website.",
+        "Feel free to explore the botanical garden near the library, {name}.",
+        "Campus tours are conducted every Friday at 2 PM."
+    ],
+    "support": [
+        "The IT support desk is available 24/7.",
+        "Counseling services are located in the health center, {name}.",
+        "Academic advisors are available by appointment."
+    ],
+    "joke": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "Why was the math book sad? It had too many problems.",
+        "What do you call fake spaghetti? An impasta!"
+    ],
+    "cricket": [
+        "Fun fact: {agent_name} once scored a century in T20 format!",
+        "Did you know? Cricket is played in over 100 countries worldwide.",
+        "{agent_name} thinks cricket is the most exciting sport ever!"
+    ],
+    "coffee": [
+        "The coffee bar is open from 8 AM to 8 PM.",
+        "You can grab coffee at the main building cafeteria, {name}.",
+        "Coffee is available near the library entrance."
+    ],
+    "default": [
+        "I'm sorry, {name}. I didn't quite understand that. Can you rephrase?",
+        "{name}, could you provide more details? I'd be happy to help.",
+        "Apologies, {name}. I didn't catch that. Can you clarify?",
+        "Let me check on that for you, {name}."
+    ]
+}

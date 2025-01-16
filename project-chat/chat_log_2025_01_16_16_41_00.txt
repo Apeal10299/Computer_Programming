@@ -1,0 +1,9 @@
+Apeal (User): About fees
+Virat Kohli (Agent): Fee payments can be made online or at the finance office, Apeal.
+
+Apeal (User): Can we get to drink coffee there?
+Virat Kohli (Agent): Coffee is available near the library entrance.
+
+Apeal (User): Admissions
+Virat Kohli (Agent): Admissions are located in the main administration building.
+
