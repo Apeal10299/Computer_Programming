@@ -5,11 +5,10 @@ Summary of the content from portolio folder:
 3.	Lab Group Divider: Divides students into groups and handles grammar for leftover counts.
 4.	Sweet Distribution: Divides sweets among pupils, showing leftovers.
 
-2)	Program 03:
-1.	This document contains programs focusing on user interaction, validation, and loops.
-2.	Greeting Program: Prompts the user for their name. If no input is provided, it defaults to "Hello, Stranger!".
-3.	Password Creation: Checks if two entered passwords match, Ensures passwords are 8-12 characters long, Prohibits certain common passwords (e.g., "password", "letmein") and Repeats the process until a valid password is set.
-4.	Times Table: Prints the multiplication table for 7, Allows the user to specify the number for the table and Handles negative numbers by printing the table in reverse order.
+2)	Program 03: This document contains programs focusing on user interaction, validation, and loops.
+1.	Greeting Program: Prompts the user for their name. If no input is provided, it defaults to "Hello, Stranger!".
+2.	Password Creation: Checks if two entered passwords match, Ensures passwords are 8-12 characters long, Prohibits certain common passwords (e.g., "password", "letmein") and Repeats the process until a valid password is set.
+3.	Times Table: Prints the multiplication table for 7, Allows the user to specify the number for the table and Handles negative numbers by printing the table in reverse order.
 
 3)	Program 04:
 1.	Integer Validation: Checks if a number is between 0 and 100.
